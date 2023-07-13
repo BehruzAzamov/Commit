@@ -248,11 +248,7 @@ h1 {
     gap: 2.6rem;
 }
 
-.hero__container__main__services {
-    width: 127.4rem;
-    height: 68.2rem;
-    background-color: #EDF7FF;
-}
+
 
 .hero__container__main__company-history {
     display: flex;
