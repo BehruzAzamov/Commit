@@ -258,3 +258,8 @@ h1 {
     display: flex;
     gap: 100rem;
 }
+
+.hero__container__main__company-history__text__h2 {
+    width: 59.6rem;
+    height: 15.7rem;
+}
